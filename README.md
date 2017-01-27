@@ -6,7 +6,7 @@ Great care has been put into making sure the schema can be updated separately fr
 
 ## Example
 
-The following template will produce an error: ![cft_error](https://raw.githubusercontent.com/yyolk/linter-js-cloudformation-yaml/master/images/cft_error.png)
+The following template will produce an error: ![cft_error](https://raw.githubusercontent.com/yyolk/linter-js-cloudformation-yaml/master/images/cft_error.jpg)
 
 ```yaml
 AWSTemplateFormatVersion: "2010-09-09"
